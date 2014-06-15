@@ -1,0 +1,95 @@
+My name is Behrooz, Born in Tehran, 1989. It is roughly pronounced as [behˈɾuːz]. It is a Persian name, natively written as بهروز, loosely meaning prosperous.
+
+[My image]
+
+I am a programmer who is interested in web development, currently employed by Booking Experts. I like to improve anything that I get in touch with, specially if it be some code. I am a huge free software enthusiast and made many contributions to different projects with different programming languages. Some other places to find out more about me:
+
+ * Résumé: http://careers.stackoverflow.com/behrooz
+ * Social networks: facebook twitter linkedin ohloh last.fm
+
+=1
+
+Expertise:
+
+ * Front-end and back-end web development.
+ * Mobile development (Hybrid and native).
+ * Modular, scalable, readable and reusable code.
+ * Performance optimization and scaling.
+ * API design.
+
+Note: I would be an asset to projects that use a mixture of programming languages as I can work with many imperative and functional languages.
+
+=3
+
+Technical skills:
+
+ * Ruby (Rails, rspec, cucumber, Sinatra, ...)
+ * Javascript (ExtJS, EmberJS, jQuery, Mootools, Mocha, Chai, ...)
+ * Scala (Sbt, Play!, akka, ...)
+ * PHP (Agavi, Symfony, ezComponents, ...)
+ * Python (Django, GTK+, ...)
+ * Git
+ * Java
+ * Erlang
+ * Vala
+ * Objective-J
+ * Clojure
+ * Objective-C
+ * Apache
+ * Nginx
+ * Postgresql
+ * Redis
+ * MySQL
+ * Memcached
+ * Solr
+ * Linux
+ * and many more
+
+Note: Why so many languages? basically all imperative languages are the same and syntax changes a bit (It is the same for functional languages). In that practice, I have professional knowledge of just two kind of languages: Imperative and Functional which is not too much.
+
+=4
+
+Experience:
+
+    * Full stack developer at BookingExperts
+      March 2014 - current
+      as a full stack developer (just like others), I am responsible for designing APIs, performance optimizations, adding new features, fixing bugs and keeping an eye on service to ensure it is always up.
+    * Full stack developer at Rojina
+      May 2013 - current
+      Responsible for development of web and mobile interfaces of map API.
+    * Full stack developer at Takhfifan
+      February 2013 - November 2013
+      Responsible for architect and develop both web application and mobile application with DevOp style.
+    * Web developer at ParsPooyesh
+      June 2012 - January 2013
+      Architect and lead developer of multiple sub projects which combination of them created Xamin project (a linux distribution). I participated in every project that had some kind of web representation including our virtual machine orchestrator, Archipel.
+    * Web developer at Atras
+      2010 - 2012
+      Architect and lead developer of the flagship product of Atras, a BPMS.
+    * Web developer at Rakhshfam
+      2006 - 2009
+      localizing FOSS specially working on CMS/CRM like wordpress, prestashop, ... with focus on Themes and plugins/modules.
+
+=5
+
+Portfolio:
+
+BookingExperts.nl - online reservation system.
+tarinan.com - review web application.
+map.tehran.ir - official map of Tehran (+ mobile app).
+map.kish.ir - official map of kish (+ mobile app).
+# nosazin.com - responsible for destructing cars in Iran.
+exporter - a firefox addon to help Iranian bloggers to migrate to other blog systems if their blog got censored by government.
+my realm - a firefox addon to avoid unwanted disturbs of censorship page in Iran.
+radio tray - an online streaming player with simple UI.
+# handlebars.php - port of handlebars.js in php.
+archipel - virtual machine orchestrator.
+
+other activities:
+ * Archive of my old blog (in Persian): web.archive.org/web/20120106110258/http://darkprince.ir/
+ * linuxfm podcast (in Persian): linuxfm.ir
+ * One of the judges of zconf in second and fourth year: zconf.ir
+ * My presentation, "Functional languages", in Tehlug: http://tehlug.org/presentations/92_11_01_functional_programming.zip (http://tehlug.org/index.php?page=entries/190)
+ * My Article, "git", in first zconf (in Persian): http://libooks.ir/index.php/programming-database/442-git
+ * My presentation, "Python, path to enterprise", in first pycon: https://drive.google.com/file/d/0B3WRhXp7ZoEzM2R2TjdUbFZKcjg/edit?usp=sharing
+ * My presentation, "Scala", in third zconf: https://drive.google.com/file/d/0B3WRhXp7ZoEzbFVmOTBBUURBb2M/edit?usp=sharing
