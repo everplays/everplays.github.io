@@ -534,10 +534,10 @@ span.pagenumber {
     margin-left: 25px;
 }
 
-img {
-    margin: 0 auto;
-}
-
 .portfolio {
     text-align: center;
+}
+
+#intro img {
+    float: right;
 }
