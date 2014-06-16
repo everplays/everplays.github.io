@@ -455,6 +455,12 @@ span.pagenumber {
 
 #technical-skills span.tag {
     font-size: 70%;
+    background: #6BCBCA;
+}
+
+#technical-skills span.tag.lib {
+    background-color: #F0F0F0;
+    font-size: 50%;
 }
 
 .experience {
